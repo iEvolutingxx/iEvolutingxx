@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="
-    https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100" alt="FELIPE RODRIGUES" /></a>
-</p>
+    https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100"
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
