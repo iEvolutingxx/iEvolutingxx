@@ -1,7 +1,6 @@
 ># 👾FELIPE RODRIGUES   
 
 #
-**ESTUDO CYBERSECURITY**   
 
 #
 
