@@ -1,5 +1,4 @@
-# 💫 About Me:
-Estudante de Análise e Desenvolvimento de sistemas 
+# 
 
 
 ## 🌐 Socials:
