@@ -15,4 +15,7 @@ Estudante de Análise e Desenvolvimento de sistemas
 ---
 [![](https://visitcount.itsvg.in/api?id=iEvolutingxx&icon=0&color=0)](https://visitcount.itsvg.in)
 
+#
+[def]:https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmp1MnlsZjFndHJiN2Q2ZmNld2F4NTk2MDJ2dXh1cnR1MDEwdzM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
